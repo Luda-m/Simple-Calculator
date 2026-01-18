@@ -21,7 +21,6 @@ print("2. Subtract")
 print("3. Multiply")
 print("4. Divide")
 
-# Take input from the user
 choice = input("Select choice (1/2/3/4): ")
 
 # Check if choice is one of the four options
